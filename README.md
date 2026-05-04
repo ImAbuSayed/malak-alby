@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نور عيونك في قلبي دليل
+> روحي تهواك والليل طويل
+> أنت حياتي وأجمل قدر
+> حبك ساكن فيني كالسحر
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
