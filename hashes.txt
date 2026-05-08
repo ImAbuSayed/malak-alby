@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak Alby
+
+This log tracks the cryptographic history and versioning for the song **Malak Alby** (malak-alby).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:22:54.868454 | `v1` | `2c1ecef4278a9c25bd97efa01f2bdf89892cea74dc7c30a4d02d1e4696d7d4cc` | `81fe08a00848e84e82d29e586aead951f45cecb6cbf3d3015f1e38759815c6a3` | `2026-05-08_malak-alby-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
